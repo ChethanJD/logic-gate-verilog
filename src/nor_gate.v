@@ -1,6 +1,8 @@
 // Module  : nor_gate
 // Project : Basic Logic Gate Design
 
+`timescale 1ns/1ps
+
 module nor_gate (
     input  wire A,   // First input
     input  wire B,   // Second input

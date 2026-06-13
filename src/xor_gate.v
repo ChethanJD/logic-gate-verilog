@@ -1,6 +1,8 @@
 // Module  : xor_gate
 // Project : Basic Logic Gate Design
 
+`timescale 1ns/1ps
+
 module xor_gate (
     input  wire A,   // First input
     input  wire B,   // Second input
