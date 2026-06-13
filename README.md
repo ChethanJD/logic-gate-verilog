@@ -8,9 +8,7 @@ Basic Logic Gate Design in Verilog — ECE
 
 
 
-\*\*Project 1 of 4 | ECE Digital Design Series\*\*
-
-\*\*Author:\*\* Your Name | ECE, Presidency University, Bangalore
+\*\*Project | ECE Digital Design Series\*\*
 
 
 
@@ -33,6 +31,16 @@ Basic Logic Gate Design in Verilog — ECE
 | XOR   | Y = A ^ B       |
 
 | XNOR  | Y = \~(A ^ B)    |
+
+
+
+
+
+\# `timescale 1ns / 1ps
+
+&#x20;             ↑      ↑
+
+&#x20;      time unit   precision
 
 
 
