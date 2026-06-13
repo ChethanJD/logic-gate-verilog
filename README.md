@@ -10,7 +10,7 @@ Basic Logic Gate Design in Verilog — ECE
 
 \*\*Project | ECE Digital Design Series\*\*
 
-
+\---------------------------------------------------------------------------
 
 \## Gates Implemented
 
@@ -34,15 +34,15 @@ Basic Logic Gate Design in Verilog — ECE
 
 
 
+\---------------------------------------------------------------------------
 
-
-\# `timescale 1ns / 1ps
+\## `timescale 1ns / 1ps
 
 \-(1ns)time unit
 
 \-(1ps)precision
 
-
+\---------------------------------------------------------------------------
 
 \## Project Structure
 
@@ -52,7 +52,7 @@ Basic Logic Gate Design in Verilog — ECE
 
 \- sim/ — Simulation outputs
 
-
+\---------------------------------------------------------------------------
 
 \## Tools Used
 
