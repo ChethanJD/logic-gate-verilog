@@ -38,9 +38,9 @@ Basic Logic Gate Design in Verilog — ECE
 
 \# `timescale 1ns / 1ps
 
-&#x20;             ↑      ↑
+\-(1ns)time unit
 
-&#x20;      time unit   precision
+\-(1ps)precision
 
 
 
