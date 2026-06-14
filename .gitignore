@@ -1,0 +1,8 @@
+# Compiled simulation binaries
+sim/and_gate
+sim/or_gate
+sim/not_gate
+sim/nand_gate
+sim/nor_gate
+sim/xor_gate
+sim/xnor_gate
